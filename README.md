@@ -1,4 +1,4 @@
-## Interactive Matrix Chart of E-Commerce Sales 📚
+## Interactive Matrix Chart of Cosmetics E-Commerce Sales 💄
 *Build Interactive Matrix Chart of E-Commerce Cosmetics Sales using Flask and D3.js*
 
 Simple fancy visualization can have more impact than a very complex model, especially for a non-technical audience.
