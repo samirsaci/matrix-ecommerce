@@ -4,8 +4,8 @@
 Simple fancy visualization can have more impact than a very complex model, especially for a non-technical audience.
 
 
-### Medium Article
-In this [Medium Article](https://medium.com/towards-data-science/build-interactive-charts-using-flask-and-d3-js-70f715a76f93/), I try to give you a recipe to design fancy visualization using D3.js without prior knowledge of javascript (or very light).
+### Article
+In this [Article](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/), I try to give you a recipe to design fancy visualization using D3.js without prior knowledge of javascript (or very light).
 
 ![This is an image](https://github.com/samirsaci/matrix-ecommerce/blob/master/static/img/screenshot.PNG)
 
