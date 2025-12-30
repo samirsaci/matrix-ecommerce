@@ -1,22 +1,22 @@
 ## Interactive Matrix Chart of Cosmetics E-Commerce Sales 💄
-*Build Interactive Matrix Chart of E-Commerce Cosmetics Sales using Flask and D3.js*
+*Build an interactive matrix chart of E-Commerce Cosmetics Sales using Flask and D3.js*
 
-Simple fancy visualization can have more impact than a very complex model, especially for a non-technical audience.
+A simple, fancy visualisation can have more impact than a very complex model, especially for a non-technical audience.
 
 
 ### Article
-In this [Article](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/), I try to give you a recipe to design fancy visualization using D3.js without prior knowledge of javascript (or very light).
+In this [Article](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/), I provide a recipe for designing advanced visualisations using D3.js, with no prior knowledge of JavaScript (or very little).
 
-![This is an image](https://github.com/samirsaci/matrix-ecommerce/blob/master/static/img/screenshot.PNG)
+[![This is an image](https://github.com/samirsaci/matrix-ecommerce/blob/master/static/img/screenshot.PNG)](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/)
 
 ## Pre-requisite
 - Basic knowledge of HTML
-- Intermediate knowledge of Python including Flask framework
-- Find an example of visualization you want to design
+- Intermediate knowledge of Python, including Flask framework
+- Find an example of visualisation you want to design
 
 ## Code
-This repository code should be used in as the second step of analysis to build the final dashboard of E-Commerce Sales
-1. Copy Github repository in your local folder and create a local python environment
+This repository code should be used as the second step of analysis to build the final dashboard of E-Commerce Sales
+1. Copy the GitHub repository to your local folder and create a local Python environment
 2. Download libraries listed in requirements.txt
 ```
   pip3 install -r requirements.txt
@@ -27,10 +27,9 @@ py app.py
 ```
 
 ## Final Step
-This is the final step of the article where you build the whole pipeline of data processing and visualization using python, deploy using Flask and animate using D3.js
+This is the final step of the article, where you build the whole pipeline of data processing and visualisation using Python, deploy using Flask and animate using D3.js
 
 ## About me 🤓
-Senior Supply Chain Engineer with an international experience working on Logistics and Transportation operations. \
-Have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/) \
-Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈 
+Senior Supply Chain Engineer with international experience working on Logistics and Transportation operations. \
+Please have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)
