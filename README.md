@@ -29,7 +29,14 @@ py app.py
 ## Final Step
 This is the final step of the article, where you build the whole pipeline of data processing and visualisation using Python, deploy using Flask and animate using D3.js
 
-## About me 🤓
-Senior Supply Chain Engineer with international experience working on Logistics and Transportation operations. \
-Please have a look at my portfolio: [Data Science for Supply Chain Portfolio](https://samirsaci.com) \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)
+## Go further
+
+- **The full write-up, with the reasoning behind the code:** [Build Interactive Charts using Flask and D3.js](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/?utm_source=github&utm_medium=readme&utm_campaign=matrix-ecommerce)
+- **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=matrix-ecommerce) has a quiz on the supply chain control tower and the analytics track, free and in the browser.
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=matrix-ecommerce)
+
+## About me
+
+Samir Saci, supply chain engineer and data scientist with ten years in operations across Asia and Europe. Founder of [LogiGreen](https://www.logi-green.com/), creator of [Supply Science](https://www.youtube.com/@SupplyScience).
+For consulting on analytics and sustainable supply chain transformation: [LogiGreen](https://www.logi-green.com/). More about me: [samirsaci.com/about](https://www.samirsaci.com/about/) · [LinkedIn](https://www.linkedin.com/in/samir-saci/)
+
