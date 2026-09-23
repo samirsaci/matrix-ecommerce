@@ -9,6 +9,12 @@ In this [Article](https://www.samirsaci.com/build-interactive-charts-using-flask
 
 [![This is an image](https://github.com/samirsaci/matrix-ecommerce/blob/master/static/img/screenshot.PNG)](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/)
 
+### Youtube Video
+Click on the image below to access the video tutorial that explains the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=0AZfe7DuT_U"><img src="https://i.ytimg.com/vi/0AZfe7DuT_U/hqdefault.jpg" alt="5 Smart Visualisations for Supply Chain Analytics (Source Code)"></a>
+</div>
+
 ## Pre-requisite
 - Basic knowledge of HTML
 - Intermediate knowledge of Python, including Flask framework
@@ -32,6 +38,7 @@ This is the final step of the article, where you build the whole pipeline of dat
 ## Go further
 
 - **The full write-up, with the reasoning behind the code:** [Build Interactive Charts using Flask and D3.js](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/?utm_source=github&utm_medium=readme&utm_campaign=matrix-ecommerce)
+- **The video:** [5 Smart Visualisations for Supply Chain Analytics (Source Code)](https://youtu.be/0AZfe7DuT_U)
 - **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=matrix-ecommerce) has a quiz on the supply chain control tower and the analytics track, free and in the browser.
 - **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=matrix-ecommerce)
 
